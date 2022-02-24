@@ -2,7 +2,7 @@
 
 This are the components for whirlpool websites
 
-# Structure
+# Repo Structure
 
 .
 ├── src
@@ -13,4 +13,6 @@ This are the components for whirlpool websites
 | │ └── index.ts
 │ └── index.ts
 ├── package.json
-└── package-lock.json
+├── package-lock.json
+├── tsconfig.json
+└── rollup.config.js
