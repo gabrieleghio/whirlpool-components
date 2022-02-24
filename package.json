@@ -1,7 +1,10 @@
 {
-  "name": "whirlpool-components",
+  "name": "@gabrieleghio/whirlpool-components",
   "version": "1.0.0",
   "description": "Whirlpool Components",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/gabrieleghio"
+  },
   "scripts": {
     "rollup": "rollup -c"
   },
